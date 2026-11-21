@@ -1,0 +1,21 @@
+{
+  "collection": "records",
+  "fields": [
+    "work",
+    "revision",
+    "asset",
+    "license",
+    "use",
+    "channel",
+    "status"
+  ],
+  "example": {
+    "work": "w-01",
+    "revision": "r1",
+    "asset": "asset-07",
+    "license": "lic-4",
+    "use": "包装插画",
+    "channel": "馆店",
+    "status": "matched"
+  }
+}

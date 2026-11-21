@@ -1,0 +1,31 @@
+{
+  "records": [
+    {
+      "work": "w-01",
+      "revision": "r1",
+      "asset": "asset-07",
+      "license": "lic-4",
+      "use": "包装插画",
+      "channel": "馆店",
+      "status": "matched"
+    },
+    {
+      "work": "w-01",
+      "revision": "r2",
+      "asset": "asset-07",
+      "license": "lic-4",
+      "use": "线上详情",
+      "channel": "线上",
+      "status": "review"
+    },
+    {
+      "work": "w-02",
+      "revision": "r1",
+      "asset": "asset-09",
+      "license": "lic-8",
+      "use": "纹样改绘",
+      "channel": "试销",
+      "status": "scope-limited"
+    }
+  ]
+}
